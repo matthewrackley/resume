@@ -17,36 +17,34 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: McDonald's
+  date: 2010 - 2011
+  subtitle: Crew Member
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Basics
+    - tag: Work Ethics
+    - tag: Teamwork
+    - tag: Win as One
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: Jack in the Box
+  date: 2011 - 2012
+  subtitle: Customer Service Rep
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: Workplace Dont's
+    - tag: Dangers of Peers
+    - tag: Fail Together
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: Lamar Institute of Technology
+  title-url: https://www.lit.edu/
+  date: 2013 - 2016
+  subtitle: AAS | Process Technology
   timeline-side: left
 
-- title: Facebook
+- title: NPC/FRG | Pizza Hut
   title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
+  date: 2016 - 2022
   subtitle: Front-End Developer as Intern
   tags:
     - tag: React

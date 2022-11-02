@@ -13,21 +13,29 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: project X
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+- name: Docker Container Methodology
+  descr: "Learning and Testing out different docker container registeries. Learning how to best implement them locally."
+  demo: https://hub.docker.com/repository/docker/marack05/pornova-18
+  tags:
+    - tag: PostgreSQL
+    - tag: Multi-Bitnami Clients
+    - tag: Local-Browser drop-ins
+    - tag: Node.js
+
+- name: Code Testing | CSS & JSON
+  descr: "Learning how to implement code via CSS and obtaining a better understanding of JSON"
   demo: https://example.com/
   tags:
-    - tag: MongoDB
-    - tag: Express
-    - tag: AngularJS
-    - tag: Node
+    - tag: CSS
+    - tag: JSON
+    - tag: VS-Code
+    - tag: github
 
-- name: project Y
-  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
+- name: Google Cloud Platform
+  descr: "Fresh Knowledge Knock through of how Google Cloud Platform works, and how to best implement it."
+  demo: https://test.pornova18.com/
   tags:
-    - tag: Python
-    - tag: Django
-
-- name: project Z
-  descr: "You can also set a project without demo link and no tags"
+    - tag: Remote
+    - tag: Cloud Services
+    - tag: Google
+    - tag: Virtual Machines

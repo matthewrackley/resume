@@ -5,29 +5,29 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
+- name: Apache
   weight: 5
 
-- name: AngularJS
+- name: html
   weight: 3
 
-- name: React
+- name: Bash
   weight: 4
 
-- name: Node
+- name: Shell
   weight: 1
 
-- name: Flutter
+- name: css
   weight: 2
 
-- name: Express
+- name: httpd.conf
   weight: 3
 
-- name: Django
+- name: WordPress
   weight: 1
 
-- name: Spring
+- name: BookStack
   weight: 2
 
-- name: Rails
+- name: WordPress
   weight: 4

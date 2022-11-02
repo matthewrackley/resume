@@ -8,16 +8,16 @@
 - name: Git
   weight: 5
 
-- name: Bash
+- name: BookStack
   weight: 3
 
-- name: Scrum
+- name: Google CLoud
   weight: 3
 
-- name: Travis CI
+- name: MySQL
   weight: 1
 
-- name: Jenkins
+- name: MariaDB
   weight: 1
 
 - name: Chrome DevTools
@@ -26,11 +26,11 @@
 - name: npm
   weight: 2
 
-- name: gulp
+- name: WordPress
   weight: 4
 
 - name: VS Code
   weight: 3
 
-- name: Postman
+- name: Docker
   weight: 4
