@@ -5,29 +5,29 @@
 # - name: Framework
 #   weight: 5
 
-- name: Apache
+- name: Apache Web Server
   weight: 5
 
-- name: html
-  weight: 3
+- name: Docker/Kubernetes
+  weight: 2
 
-- name: Bash
+- name: Website Development/Design
   weight: 4
 
-- name: Shell
-  weight: 1
-
-- name: css
-  weight: 2
-
-- name: httpd.conf
+- name: Bitnami
   weight: 3
 
-- name: WordPress
-  weight: 1
+- name: AWS and GCP
+  weight: 4
+
+- name: Google Workspace
+  weight: 4
+
+- name: Adult Industry Regulations
+  weight: 3
 
 - name: BookStack
-  weight: 2
+  weight: 3
 
 - name: WordPress
   weight: 4

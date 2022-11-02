@@ -42,7 +42,7 @@ about_me_description:  Currently seeking employment as a Jr. Web Developer or a 
 # > setting this to false, will omit the Skills section
 show_skills_card: true
 # about_me_title: The will be displayed as the title in the Skills section
-skills_title: Apache Web Server | Website Development/Design | Bitnami, Docker/Kubernetes, AWS and GCP | Google Workspace | Adult Industry Regulations
+skills_title: My Skill-Set
 
 # TIMELINE SECTION
 # show_timeline_card:
