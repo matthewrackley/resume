@@ -32,7 +32,7 @@ twitter_username: marack
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: My goal:
+about_me_title: My Career Objective
 # about_me_description: This will be displayed under the title.
 about_me_description:  Currently seeking employment as a Jr. Web Developer or a Jr. Site Administrator. I desire a company the values my Free Time as much as they value their Network Configuration. I'm a Web Developer/Designer who specializes in Apache for Net Administration. I am experienced with Amazon Web Services and familiar with Google Cloud Platform. I am well versed in the Google Workspace Workplace Administration. Visit my<a class="highlight-link" href="https://github.com/matthewrackley" target="_blank" rel="noreferrer"> Github </a>.
 
