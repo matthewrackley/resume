@@ -7,7 +7,7 @@ title: Matthew Rackley's Portfolio
 description: Personal Resume and Work Repretoire
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/resume"
+baseurl: "https://matthew.rackley.app/"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
