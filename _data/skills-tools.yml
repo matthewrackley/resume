@@ -11,7 +11,7 @@
 - name: npm
   weight: 3
 
-- name: Enterprise Cloud Systems
+- name: Enterprise Cloud
   weight: 3
 
 - name: wget
