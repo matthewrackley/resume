@@ -6,21 +6,15 @@
 #   weight: 5
 
 - name: Apache Web Server
-  weight: 5
+  weight: 4
 
-- name: Docker/Kubernetes
+- name: MySQL/MariaDB
   weight: 2
 
-- name: Website Development/Design
-  weight: 4
+- name: Node.js
+  weight: 1
 
-- name: Bitnami
-  weight: 3
-
-- name: AWS and GCP
-  weight: 4
-
-- name: Google Workspace
+- name: AWS and GCP for Cloud Services
   weight: 4
 
 - name: Adult Industry Regulations
