@@ -8,29 +8,26 @@
 - name: Git
   weight: 5
 
-- name: BookStack
+- name: npm
   weight: 3
 
-- name: Google CLoud
+- name: Enterprise Cloud Systems
   weight: 3
 
-- name: MySQL
-  weight: 1
+- name: wget
+  weight: 2
 
-- name: MariaDB
-  weight: 1
+- name: VS Code
+  weight: 4
 
-- name: Chrome DevTools
+- name: Browser DevTools
   weight: 2
 
 - name: npm
   weight: 2
 
-- name: WordPress
-  weight: 4
-
-- name: VS Code
-  weight: 3
+- name: Visual Studio
+  weight: 2
 
 - name: Docker
-  weight: 4
+  weight: 3
