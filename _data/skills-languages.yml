@@ -5,23 +5,20 @@
 # - name: Language
 #   weight: 5
 
-- name: HTML
-  weight: 5
-
-- name: Powershell
-  weight: 4
-
-- name: Batch
-  weight: 2
-
-- name: Bash
-  weight: 4
-
-- name: CSS
+- name: html
   weight: 3
 
 - name: php
+  weight: 2
+
+- name: bash
+  weight: 3
+
+- name: css
+  weight: 3
+
+- name: javascript
   weight: 1
 
-- name: Java
-  weight: 1
+- name: clang/c++
+  weight: 2
