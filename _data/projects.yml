@@ -13,29 +13,55 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Docker Container Methodology
-  descr: "Learning and Testing out different docker container registeries. Learning how to best implement them locally."
-  demo: https://hub.docker.com/repository/docker/marack05/pornova-18
+- name: Autofillable 2257 form
+  descr: "This provides my knowledge on css, html, php, js, and Adult Industry Regulations"
+  demo: https://2257form.rackley.app/
   tags:
-    - tag: PostgreSQL
-    - tag: Multi-Bitnami Clients
-    - tag: Local-Browser drop-ins
-    - tag: Node.js
+    - tag: Adult-Industry
+    - tag: css
+    - tag: html
+    - tag: js
+    - tag: php
+    - tag: vs-code
+    - tag: GCP
+    - tag: Google Cloud Platform
+    - tag: Google API
+    - tag: example of my knowledge when it comes to APIs
 
-- name: Code Testing | CSS & JSON
+- name: Web Server Setup
   descr: "Learning how to implement code via CSS and obtaining a better understanding of JSON"
-  demo: https://example.com/
+  demo: https://webserver.rackley.app/
   tags:
-    - tag: CSS
-    - tag: JSON
-    - tag: VS-Code
-    - tag: github
+    - tag: Apache
+    - tag: MySQL
+    - tag: MariaDB
+    - tag: css
+    - tag: html
+    - tag: js
+    - tag: php
+    - tag: vs-code
+    - tag: Networking
+    - tag: router
+    - tag: SysAdmin
+    - tag: System Administrator
 
-- name: Google Cloud Platform
-  descr: "Fresh Knowledge Knock through of how Google Cloud Platform works, and how to best implement it."
-  demo: https://test.pornova18.com/
+- name: Pornova 18+ Forums | Knowledge is Pleasure...
+  descr: "Basic example of my knowledge when it comes to GCP"
+  demo: https://forums.pornova18.com/
   tags:
     - tag: Remote
     - tag: Cloud Services
     - tag: Google
     - tag: Virtual Machines
+    
+- name: Pornova 18+ | Porn is Over... Pleasure Awaits...
+  descr: "Basic example of the culmination of my knowledge when it comes to Wordpress, AWS, and Adult Industry Regulations."
+  demo: https://www.pornova18.com/
+  tags:
+    - tag: Remote
+    - tag: Cloud Services
+    - tag: Amazon
+    - tag: Virtual Machines
+    - tag: AWS
+    - tag: Wordpress
+    - tag: Web-Development
