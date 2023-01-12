@@ -14,7 +14,7 @@
 - name: Node.js
   weight: 1
 
-- name: AWS and GCP for Cloud Services
+- name: AWS/GCP for Cloud
   weight: 4
 
 - name: Adult Industry Regulations
