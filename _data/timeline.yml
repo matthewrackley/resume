@@ -43,7 +43,8 @@
   tags:
     - tag: Process Systems
     - tag: Read Engineering Charts
-    - tag: 
+    - tag: General Schooling
+    - tag: Gas and Oil Industry
   timeline-side: left
 
 - title: NPC/FRG | Pizza Hut
@@ -56,8 +57,21 @@
     - tag: Javascript
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Personal Education
+  title-url: https://matthew.rackley.app
+  date: 2022 - 2023
+  subtitle: Self-Education
+    - tag: js
+    - tag: php
+    - tag: css
+    - tag: html
+    - tag: API
+    - tag: Adult Industry Regulations
+    - tag: Debian
+    - tag: node.js
+    - tag: Web Development
+    - tag: Adult Entertainment
+    - tag: WordPress
+    - tag: MariaDB
+    - tag: MySQL
   timeline-side: left
